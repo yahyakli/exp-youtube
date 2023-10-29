@@ -103,7 +103,7 @@ header {
 }
 aside {
     height: 100%;
-    overflow-y: auto;
+    overflow-y:auto;
     width: 280px;
     background-color: white;
 }
@@ -137,4 +137,17 @@ nav {
     font-weight: 400;
     line-height: 2rem;
     color: #030303;
+}
+hr {
+    height: 1px;
+    border: none;
+    background-color: #e5e5e5;
+    margin: 10px 0px;
+}
+nav p {
+    font-size: 1.4rem;
+    color: #606060;
+    font-weight: 500;
+    padding: 8px 16px;
+    text-transform: uppercase;
 }
